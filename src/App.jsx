@@ -248,7 +248,7 @@ function App() {
                     より臨場感のあるゲーム体験を提供しています。
                   </p>
                   <a
-                    href="https://github.com/Honda123-wq/wani-game"
+                    href="https://wani-game-yoshiko-hondas-projects.vercel.app"
                     className="mt-3 text-green-500 items-center"
                   >
                     もっと見る→
@@ -292,7 +292,7 @@ function App() {
                     HTMLとCSS、JavascriptのみでNikeのShoesサイトを作ってみました。パララックスやカラー変更関数などを使って、モダンなサイトに仕上がっています。Reactを使わずに実装、デプロイはVercelで行っています。
                   </p>
                   <a
-                    href="https://github.com/Honda123-wq/nike-clone"
+                    href="https://nike-clone-cyan.vercel.app"
                     className="mt-3 text-green-500 items-center"
                   >
                     もっと見る→
