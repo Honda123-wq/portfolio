@@ -300,40 +300,28 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="md:w-1/3 p-4">
+           <div className="md:w-1/3 p-4">
               <div className="bg-gray-100 rounded-lg p-8">
                 <div className="flex items-center mb-3">
                   <div className="bg-green-500 text-white rounded-full">
                     <svg
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <path
-    d="M6 6C6 5.44772 6.44772 5 7 5H17C17.5523 5 18 5.44772 18 6C18 6.55228 17.5523 7 17 7H7C6.44771 7 6 6.55228 6 6Z"
-    fill="currentColor"
-  />
-  <path
-    d="M6 10C6 9.44771 6.44772 9 7 9H17C17.5523 9 18 9.44771 18 10C18 10.5523 17.5523 11 17 11H7C6.44771 11 6 10.5523 6 10Z"
-    fill="currentColor"
-  />
-  <path
-    d="M7 13C6.44772 13 6 13.4477 6 14C6 14.5523 6.44771 15 7 15H17C17.5523 15 18 14.5523 18 14C18 13.4477 17.5523 13 17 13H7Z"
-    fill="currentColor"
-  />
-  <path
-    d="M6 18C6 17.4477 6.44772 17 7 17H11C11.5523 17 12 17.4477 12 18C12 18.5523 11.5523 19 11 19H7C6.44772 19 6 18.5523 6 18Z"
-    fill="currentColor"
-  />
-  <path
-    fill-rule="evenodd"
-    clip-rule="evenodd"
-    d="M2 4C2 2.34315 3.34315 1 5 1H19C20.6569 1 22 2.34315 22 4V20C22 21.6569 20.6569 23 19 23H5C3.34315 23 2 21.6569 2 20V4ZM5 3H19C19.5523 3 20 3.44771 20 4V20C20 20.5523 19.5523 21 19 21H5C4.44772 21 4 20.5523 4 20V4C4 3.44772 4.44771 3 5 3Z"
-    fill="currentColor"
-  />
-</svg>
+                      width="24"
+                      height="24"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        fill-rule="evenodd"
+                        clip-rule="evenodd"
+                        d="M21.2635 2.29289C20.873 1.90237 20.2398 1.90237 19.8493 2.29289L18.9769 3.16525C17.8618 2.63254 16.4857 2.82801 15.5621 3.75165L4.95549 14.3582L10.6123 20.0151L21.2189 9.4085C22.1426 8.48486 22.338 7.1088 21.8053 5.99367L22.6777 5.12132C23.0682 4.7308 23.0682 4.09763 22.6777 3.70711L21.2635 2.29289ZM16.9955 10.8035L10.6123 17.1867L7.78392 14.3582L14.1671 7.9751L16.9955 10.8035ZM18.8138 8.98525L19.8047 7.99429C20.1953 7.60376 20.1953 6.9706 19.8047 6.58007L18.3905 5.16586C18 4.77534 17.3668 4.77534 16.9763 5.16586L15.9853 6.15683L18.8138 8.98525Z"
+                        fill="currentColor"
+                      />
+                      <path
+                        d="M2 22.9502L4.12171 15.1717L9.77817 20.8289L2 22.9502Z"
+                        fill="currentColor"
+                      />
+                    </svg>
                   </div>
                   <h2 className="text-gray-900 text-lg font-medium ml-2">
                     簡単メモアプリ
@@ -345,6 +333,62 @@ function App() {
                   </p>
                   <a
                     href="https://memo-app-taupe.vercel.app/"
+                    className="mt-3 text-green-500 items-center"
+                  >
+                    もっと見る→
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="md:w-1/3 p-4">
+              <div className="bg-gray-100 rounded-lg p-8">
+                <div className="flex items-center mb-3">
+                  <div className="bg-green-500 text-white rounded-full">
+                    <svg
+                      width="24"
+                      height="24"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M15.4695 11.2929C15.0789 10.9024 14.4458 10.9024 14.0553 11.2929C13.6647 11.6834 13.6647 12.3166 14.0553 12.7071C14.4458 13.0976 15.0789 13.0976 15.4695 12.7071C15.86 12.3166 15.86 11.6834 15.4695 11.2929Z"
+                        fill="currentColor"
+                      />
+                      <path
+                        d="M16.1766 9.17156C16.5671 8.78103 17.2003 8.78103 17.5908 9.17156C17.9813 9.56208 17.9813 10.1952 17.5908 10.5858C17.2003 10.9763 16.5671 10.9763 16.1766 10.5858C15.7861 10.1952 15.7861 9.56208 16.1766 9.17156Z"
+                        fill="currentColor"
+                      />
+                      <path
+                        d="M19.7121 11.2929C19.3216 10.9024 18.6885 10.9024 18.2979 11.2929C17.9074 11.6834 17.9074 12.3166 18.2979 12.7071C18.6885 13.0976 19.3216 13.0976 19.7121 12.7071C20.1027 12.3166 20.1027 11.6834 19.7121 11.2929Z"
+                        fill="currentColor"
+                      />
+                      <path
+                        d="M16.1766 13.4142C16.5671 13.0237 17.2003 13.0237 17.5908 13.4142C17.9813 13.8048 17.9813 14.4379 17.5908 14.8284C17.2003 15.219 16.5671 15.219 16.1766 14.8284C15.7861 14.4379 15.7861 13.8048 16.1766 13.4142Z"
+                        fill="currentColor"
+                      />
+                      <path
+                        d="M6 13H4V11H6V9H8V11H10V13H8V15H6V13Z"
+                        fill="currentColor"
+                      />
+                      <path
+                        fill-rule="evenodd"
+                        clip-rule="evenodd"
+                        d="M7 5C3.13401 5 0 8.13401 0 12C0 15.866 3.13401 19 7 19H17C20.866 19 24 15.866 24 12C24 8.13401 20.866 5 17 5H7ZM17 7H7C4.23858 7 2 9.23858 2 12C2 14.7614 4.23858 17 7 17H17C19.7614 17 22 14.7614 22 12C22 9.23858 19.7614 7 17 7Z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                  <h2 className="text-gray-900 text-lg font-medium ml-2">
+                    簡単クイズアプリ
+                  </h2>
+                </div>
+                <div>
+                  <p>
+                    ReactとJavaScriptクイズで簡単なアプリを作りました。デプロイ先はAWSを使用しています。主に状態の管理と全般の管理を注意して実装しています。初心者にはちょうど良いコードの内容となっています。
+                  </p>
+                  <a
+                    href="https://quiz-app-two-teal.vercel.app"
                     className="mt-3 text-green-500 items-center"
                   >
                     もっと見る→
