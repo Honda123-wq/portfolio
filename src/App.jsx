@@ -428,7 +428,7 @@ function App() {
                     を利用し、リアルタイムでメッセージのやり取りができます。
                   </p>
                   <a
-                    href="lineclone-home.web.app"
+                    href="https://lineclone-home.web.app"
                     className="mt-3 text-green-500 items-center"
                   >
                     もっと見る→
