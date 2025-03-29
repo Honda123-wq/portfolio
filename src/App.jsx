@@ -508,7 +508,7 @@ function App() {
                     Redux Toolkitを使って、状態管理の導入方法を学習しました。
                   </p>
                   <a
-                    href="https://memo-app-ts.vercel.app/"
+                    href="https://redux-basic-app-ten.vercel.app/"
                     className="mt-3 text-green-500 items-center"
                   >
                     もっと見る→
