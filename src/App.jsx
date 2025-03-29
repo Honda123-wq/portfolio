@@ -436,6 +436,44 @@ function App() {
                 </div>
               </div>
             </div>
+            <div className="md:w-1/3 p-4">
+              <div className="bg-gray-100 rounded-lg p-8">
+                <div className="flex items-center mb-3">
+                  <div className="bg-green-500 text-white rounded-full">
+                    <svg
+                      width="24"
+                      height="24"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path d="M13 16H11V18H13V16Z" fill="currentColor" />
+                      <path
+                        fill-rule="evenodd"
+                        clip-rule="evenodd"
+                        d="M5 4C5 2.89543 5.89543 2 7 2H17C18.1046 2 19 2.89543 19 4V20C19 21.1046 18.1046 22 17 22H7C5.89543 22 5 21.1046 5 20V4ZM7 4H17V20H7L7 4Z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                  <h2 className="text-gray-900 text-lg font-medium ml-2">
+                    簡単メモアプリ（React + TypeScript）
+                  </h2>
+                </div>
+                <div>
+                  <p>
+                    シンプルなメモアプリです！
+                    React・TypeScript・カスタムフックの学習を目的に制作しました。
+                  </p>
+                  <a
+                    href="https://memo-app-ts.vercel.app/"
+                    className="mt-3 text-green-500 items-center"
+                  >
+                    もっと見る→
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
