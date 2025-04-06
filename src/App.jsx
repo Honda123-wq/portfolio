@@ -603,8 +603,8 @@ function App() {
                   <div className="bg-green-500 text-white rounded-full">
                     <svg
                       fill="#000000"
-                      height="800px"
-                      width="800px"
+                      height="48"
+  width="48"
                       version="1.1"
                       id="Layer_1"
                       xmlns="http://www.w3.org/2000/svg"
