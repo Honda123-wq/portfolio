@@ -189,7 +189,7 @@ function App() {
                   <p>
                     AIを使った株やビットコインのデータの取得、分析、1か月後の予測アプリです。AIはscikit-learnの回帰で実装しています。主にPhythondeでコーディングを行い、フレームワークはstreamlitを使用しています。株や暗号資産の売買にぜひお役立てください。
                   </p>
-                  <a href="#" className="mt-3 text-green-500 items-center">
+                  <a href="https://predictstock-glyckz88bholtxqe5gtbbg.streamlit.app" className="mt-3 text-green-500 items-center">
                     もっと見る→
                   </a>
                 </div>
