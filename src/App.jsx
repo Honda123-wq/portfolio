@@ -810,12 +810,12 @@ l-6 187 54 7 c210 29 448 148 611 308 271 264 407 619 408 1062 0 330 -71 659
                     </svg>
                   </div>
                   <h2 className="text-gray-900 text-lg font-medium ml-2">
-                    ナイキシューズのクローンサイト
+                    E-commerce Fashion
                   </h2>
                 </div>
                 <div>
                   <p>
-                    HTMLとCSS、JavascriptのみでNikeのShoesサイトを作ってみました。パララックスやカラー変更関数などを使って、モダンなサイトに仕上がっています。Reactを使わずに実装、デプロイはVercelで行っています。
+                    アパレルのショッピングサイトです。APIはFakeShopAPIを使用し、疑似的なショッピングサイトを構築しました。React, HTML, CSS, JavasCriptで実装しています。決済機能も実装しています。
                   </p>
                   <a
                     href="https://nike-clone-cyan.vercel.app"
@@ -854,12 +854,12 @@ l-6 187 54 7 c210 29 448 148 611 308 271 264 407 619 408 1062 0 330 -71 659
                     </svg>
                   </div>
                   <h2 className="text-gray-900 text-lg font-medium ml-2">
-                    ナイキシューズのクローンサイト
+                    天気App
                   </h2>
                 </div>
                 <div>
                   <p>
-                    HTMLとCSS、JavascriptのみでNikeのShoesサイトを作ってみました。パララックスやカラー変更関数などを使って、モダンなサイトに仕上がっています。Reactを使わずに実装、デプロイはVercelで行っています。
+                   ReactとJavaScriptで、地域を入力すると現在の天気が表示されるアプリです。APIはOpen Weather Mapを使用しています。国、地域、都市名を英語で入力すると表示されます。デプロイはVercelです。
                   </p>
                   <a
                     href="https://nike-clone-cyan.vercel.app"
