@@ -789,51 +789,96 @@ l-6 187 54 7 c210 29 448 148 611 308 271 264 407 619 408 1062 0 330 -71 659
                 </div>
               </div>
             </div>
-		    <div className="md:w-1/3 p-4">
-              <div className="bg-gray-100 rounded-lg p-8">
-                <div className="flex items-center mb-3">
-                  <div className="bg-green-500 text-white rounded-full">
-                    <svg version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="width: 256px; height: 256px; opacity: 1;" xml:space="preserve">
-<g>
-  <path fill="#4B4B4B" d="..." />
-</g>
+		   <div className="md:w-1/3 p-4">
+  <div className="bg-gray-100 rounded-lg p-8">
+    <div className="flex items-center mb-3">
+      <div className="bg-green-500 text-white rounded-full">
+        <svg
+          version="1.1"
+          id="_x32_"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlnsXlink="http://www.w3.org/1999/xlink"
+          x="0px"
+          y="0px"
+          viewBox="0 0 512 512"
+          style={{ width: "256px", height: "256px", opacity: 1 }}
+          xmlSpace="preserve"
+        >
+          <g>
+            <path fill="#4B4B4B" d="..." />
+          </g>
+          <path
+            className="st0"
+            d="M115.958,269.922c16.999-10.12,36.842-15.916,58.04-15.916c2.556,0,5.127,0.078,7.682,0.234c7.199-24.681,20.957-46.355,39.203-63.12c-3.49-39.437-36.562-70.32-76.879-70.32c-42.647,0-77.207,34.56-77.207,77.199C66.798,230.766,87.194,258.719,115.958,269.922z"
+            fill="#4B4B4B"
+          />
+          <rect
+            x="135.652"
+            y="54.002"
+            className="st0"
+            width="16.696"
+            height="45.911"
+            fill="#4B4B4B"
+          />
+          <polygon
+            className="st0"
+            points="102.184,108.88 79.232,69.116 64.772,77.467 87.724,117.232"
+            fill="#4B4B4B"
+          />
+          <polygon
+            className="st0"
+            points="15.114,133.233 54.878,156.185 63.23,141.726 23.466,118.774"
+            fill="#4B4B4B"
+          />
+          <polygon
+            className="st0"
+            points="45.919,189.654 0,189.654 0,206.35 45.919,206.342"
+            fill="#4B4B4B"
+          />
+          <polygon
+            className="st0"
+            points="15.114,262.77 23.466,277.23 63.23,254.27 54.878,239.811"
+            fill="#4B4B4B"
+          />
+          <rect
+            x="240.478"
+            y="114.523"
+            transform="matrix(0.4998 0.8661 -0.8661 0.4998 243.5358 -146.7501)"
+            className="st0"
+            width="16.694"
+            height="45.913"
+            fill="#4B4B4B"
+          />
+          <polygon
+            className="st0"
+            points="223.228,77.467 208.776,69.116 185.817,108.88 200.269,117.232"
+            fill="#4B4B4B"
+          />
+          <path
+            className="st0"
+            d="M431.997,298c-0.031,0-0.062,0.008-0.101,0.008c0.054-1.332,0.101-2.665,0.101-4.004C431.997,229.932,380.064,178,316,178c-60.012,0-109.382,45.575-115.388,104.006c-8.414-2.602-17.342-4.005-26.614-4.005C124.294,278.001,84,318.295,84,368c0,49.704,40.294,89.998,89.998,89.998h257.999c44.182,0,80.003-35.814,80.003-79.995C512,333.814,476.178,298,431.997,298z"
+            fill="#4B4B4B"
+          />
+        </svg>
+      </div>
+      <h2 className="text-gray-900 text-lg font-medium ml-2">
+        天気App
+      </h2>
+    </div>
+    <div>
+      <p>
+        ReactとJavaScriptで、地域を入力すると現在の天気が表示されるアプリです。APIはOpen Weather Mapを使用しています。国、地域、都市名を英語で入力すると表示されます。デプロイはVercelです。
+      </p>
+      <a
+        href="https://weather-app-coral-beta-80.vercel.app"
+        className="mt-3 text-green-500 items-center"
+      >
+        もっと見る→
+      </a>
+    </div>
+  </div>
+</div>
 
-	<path class="st0" d="M115.958,269.922c16.999-10.12,36.842-15.916,58.04-15.916c2.556,0,5.127,0.078,7.682,0.234
-		c7.199-24.681,20.957-46.355,39.203-63.12c-3.49-39.437-36.562-70.32-76.879-70.32c-42.647,0-77.207,34.56-77.207,77.199
-		C66.798,230.766,87.194,258.719,115.958,269.922z" style="fill: rgb(75, 75, 75);"></path>
-	<rect x="135.652" y="54.002" class="st0" width="16.696" height="45.911" style="fill: rgb(75, 75, 75);"></rect>
-	<polygon class="st0" points="102.184,108.88 79.232,69.116 64.772,77.467 87.724,117.232 	" style="fill: rgb(75, 75, 75);"></polygon>
-	<polygon class="st0" points="15.114,133.233 54.878,156.185 63.23,141.726 23.466,118.774 	" style="fill: rgb(75, 75, 75);"></polygon>
-	<polygon class="st0" points="45.919,189.654 0,189.654 0,206.35 45.919,206.342 	" style="fill: rgb(75, 75, 75);"></polygon>
-	<polygon class="st0" points="15.114,262.77 23.466,277.23 63.23,254.27 54.878,239.811 	" style="fill: rgb(75, 75, 75);"></polygon>
-	
-		<rect x="240.478" y="114.523" transform="matrix(0.4998 0.8661 -0.8661 0.4998 243.5358 -146.7501)" class="st0" width="16.694" height="45.913" style="fill: rgb(75, 75, 75);"></rect>
-	<polygon class="st0" points="223.228,77.467 208.776,69.116 185.817,108.88 200.269,117.232 	" style="fill: rgb(75, 75, 75);"></polygon>
-	<path class="st0" d="M431.997,298c-0.031,0-0.062,0.008-0.101,0.008c0.054-1.332,0.101-2.665,0.101-4.004
-		C431.997,229.932,380.064,178,316,178c-60.012,0-109.382,45.575-115.388,104.006c-8.414-2.602-17.342-4.005-26.614-4.005
-		C124.294,278.001,84,318.295,84,368c0,49.704,40.294,89.998,89.998,89.998h257.999c44.182,0,80.003-35.814,80.003-79.995
-		C512,333.814,476.178,298,431.997,298z" style="fill: rgb(75, 75, 75);"></path>
-</g>
-</svg>
-
-                  </div>
-                  <h2 className="text-gray-900 text-lg font-medium ml-2">
-                    天気App
-                  </h2>
-                </div>
-                <div>
-                  <p>
-                   ReactとJavaScriptで、地域を入力すると現在の天気が表示されるアプリです。APIはOpen Weather Mapを使用しています。国、地域、都市名を英語で入力すると表示されます。デプロイはVercelです。
-                  </p>
-                  <a
-                    href="https://weather-app-coral-beta-80.vercel.app"
-                    className="mt-3 text-green-500 items-center"
-                  >
-                    もっと見る→
-                  </a>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </section>
