@@ -794,10 +794,10 @@ l-6 187 54 7 c210 29 448 148 611 308 271 264 407 619 408 1062 0 330 -71 659
                 <div className="flex items-center mb-3">
                   <div className="bg-green-500 text-white rounded-full">
                     <svg version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="width: 256px; height: 256px; opacity: 1;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#4B4B4B;}
-</style>
 <g>
+  <path fill="#4B4B4B" d="..." />
+</g>
+
 	<path class="st0" d="M115.958,269.922c16.999-10.12,36.842-15.916,58.04-15.916c2.556,0,5.127,0.078,7.682,0.234
 		c7.199-24.681,20.957-46.355,39.203-63.12c-3.49-39.437-36.562-70.32-76.879-70.32c-42.647,0-77.207,34.56-77.207,77.199
 		C66.798,230.766,87.194,258.719,115.958,269.922z" style="fill: rgb(75, 75, 75);"></path>
