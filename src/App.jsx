@@ -69,7 +69,7 @@ function App() {
                 <div className="flex items-center mb-3">
                   <div className="bg-green-500 text-white rounded-full">
                    <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="1280.000000pt" height="824.000000pt" viewBox="0 0 1280.000000 824.000000"
+ width="24" height="24" viewBox="0 0 1280.000000 824.000000"
  preserveAspectRatio="xMidYMid meet">
 <metadata>
 Created by potrace 1.15, written by Peter Selinger 2001-2017
@@ -801,7 +801,7 @@ l-6 187 54 7 c210 29 448 148 611 308 271 264 407 619 408 1062 0 330 -71 659
           x="0px"
           y="0px"
           viewBox="0 0 512 512"
-          style={{ width: "256px", height: "256px", opacity: 1 }}
+          style={{ width: "24", height: "24", opacity: 1 }}
           xmlSpace="preserve"
         >
           <g>
