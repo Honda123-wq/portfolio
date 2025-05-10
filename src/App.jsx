@@ -930,7 +930,7 @@ l-6 187 54 7 c210 29 448 148 611 308 271 264 407 619 408 1062 0 330 -71 659
 エンターテインメント性の高い演出システムとして設計しています。
                   </p>
                   <a
-                    href="https://candle-stage.vercel.app/"
+                    href="https://ikkondo-stage.vercel.app/"
                     className="mt-3 text-green-500 items-center"
                   >
                     もっと見る→
