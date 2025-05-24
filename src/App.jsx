@@ -941,7 +941,33 @@ l-6 187 54 7 c210 29 448 148 611 308 271 264 407 619 408 1062 0 330 -71 659
                 </div>
               </div>
             </div>
-            
+            <div className="md:w-1/3 p-4">
+  <div className="bg-gray-100 rounded-lg p-8">
+    <div className="flex items-center mb-3">
+      <div className="bg-green-500 text-white rounded-full">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clock" viewBox="0 0 16 16">
+  <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z"/>
+  <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16m7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0"/>
+</svg>
+      </div>
+      <h2 className="text-gray-900 text-lg font-medium ml-2">
+        顔認証勤怠管理システム（Face Attendance App）
+      </h2>
+    </div>
+    <div>
+      <p>
+        このアプリは、**Webカメラと顔認識AI（face-api.js）を使った勤怠管理システム**です。
+React + Vite + Tailwind CSS で構築され、個人の顔を使って出勤・退勤などの勤怠登録ができます。
+      </p>
+      <a
+        href="https://face-attendance-app.vercel.app/"
+        className="mt-3 text-green-500 items-center"
+      >
+        もっと見る→
+      </a>
+    </div>
+  </div>
+</div>
           </div>
         </div>
       </section>
